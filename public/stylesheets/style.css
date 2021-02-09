@@ -1,0 +1,50 @@
+form.signup,
+form.login {
+  margin-top: 10%;
+}
+
+.navbar {
+  background-color: #ebead9;
+}
+
+.mb-auto {
+  margin: 3px;
+  background-color: white;
+}
+
+.login-body {
+  background-image: url("../assets/pexels-thgusstavo-santana-1813272.jpg");
+}
+
+.about-body {
+  background-image: url("../assets/pexels-edward-eyer-667986.jpg");
+}
+
+.members-body {
+  background-image: url("../assets/pexels-igor-starkov-785537.jpg");
+}
+
+.login {
+  background-color: white;
+  width: 300px;
+  padding: 20px;
+}
+
+.hero {
+  background-color: #ebead9;
+}
+
+.login {
+  background-color: #ebead9;
+}
+
+
+.container {
+  padding-top: 10%;
+}
+
+
+#9am{
+  display: none;
+}
+
